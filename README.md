@@ -56,7 +56,7 @@ animal=['pig','cow','dog']
 
 #### 논리 연산자
 
-and, or, not 을 사용한다 (Boolean 자료형에 해당)
+and, or, not 을 사용한다 (Bool 자료형에 해당)
 
 #### 비트연산자
 
@@ -66,11 +66,11 @@ and, or, not 을 사용한다 (Boolean 자료형에 해당)
 
 #### 그 외 연산자
 
-- a in b : a가 b에 해당되는지 확인하여 Boolean 값을 반환한다
+- a in b : a가 b에 해당되는지 확인하여 Bool 값을 반환한다
 
-- a not in b : a가 b에 해당되지 않는지 확인하여 Boolean 값을 반환한다
+- a not in b : a가 b에 해당되지 않는지 확인하여 Bool 값을 반환한다
 
-- a is b : a와 b가 동일한지 확인하여 Boolean 값을 반환한다
+- a is b : a와 b가 동일한지 확인하여 Bool 값을 반환한다
 
 #### list 메서드
 
