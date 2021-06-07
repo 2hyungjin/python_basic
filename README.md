@@ -242,7 +242,7 @@ static 메서드 (정적 메서드)는 **@staticmethod**를  통해 정적 메�
 
 #### 상속
 
-class를 생성할 때, **class명(부모 class명):**의 형식으로 상속받을 수 있다
+class를 생성할 때, **class명(부모 class명):** 의 형식으로 상속받을 수 있다
 
 자식 class는 부모 class의 멤버를 호출할 수 있다
 
